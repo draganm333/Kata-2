@@ -1,0 +1,1 @@
+WeatherFetcher is a Java program that fetches and displays the current weather data for a given city using the OpenWeatherMap API. The program retrieves data such as temperature, humidity, and weather conditions and displays it in a user-friendly table format.
